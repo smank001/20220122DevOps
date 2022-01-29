@@ -1,4 +1,4 @@
-/* It is This is the initial content for a.java */
+/* More changes in branch A  It is This is the initial content for a.java */
 /* add one more commit */
 void main () {
 	println "Hello World"
